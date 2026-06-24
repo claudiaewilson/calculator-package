@@ -8,4 +8,4 @@ from calculator_package.basic import BasicCalculator
 
 from calculator_package.advanced import AdvancedCalculator
 
-from calculator_package.statistics import ScientificCalculator
+from calculator_package.statistics import StatisticsCalculator

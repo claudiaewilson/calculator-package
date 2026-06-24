@@ -1,6 +1,6 @@
 [project]
 name = "calculator_package"
-version = "0.1.0"
+version = "0.2.0"
 description = "A reusable Python calculator package for learning GitHub collaboration."
 authors = [
     { name = "Workshop Team" }
